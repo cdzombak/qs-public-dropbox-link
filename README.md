@@ -1,5 +1,9 @@
 # Dropbox Public Link Quicksilver Script
 
+**Deprecated. Please see [the equivalent script in cdzombak/osx-services](https://github.com/cdzombak/osx-services#copy-public-dropbox-link) instead.**
+
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+
 This script lets you quickly generate & copy links for files in your Public Dropbox folder, assuming you serve those files using [my guide to serving Dropbox files from your own server using nginx](http://www.dzombak.com/blog/2014/01/serving-dropbox-via-nginx.html).
 
 ## Installation
